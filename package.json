@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinWooByun/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinWooByun/TypeScript/issues"
+  },
+  "homepage": "https://github.com/MinWooByun/TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
